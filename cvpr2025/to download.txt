@@ -1,0 +1,5 @@
+robot共36
+Tartan IMU: A Light Foundation Model for Inertial Positioning in Robotics
+Two by Two: Learning Cross-Task Pairwise Objects Assembly for Generalizable Robot Manipulation
+FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation
+ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping

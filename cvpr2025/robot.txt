@@ -1,0 +1,30 @@
+RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training
+Spatial-Temporal Graph Diffusion Policy with Kinematics Modeling for Bimanual Robotic Manipulation
+OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints
+RoboBrain: A Unified  Brain Model for Robotic Manipulation from Abstract to Concrete
+Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation
+MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data
+Lift3D Policy: Lifting 2D Foundation Models for Robust 3D Robotic Manipulation
+Tartan IMU: A Light Foundation Model for Inertial Positioning in Robotics
+UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping
+PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation
+Robotic Visual Instruction
+3D-MVP: 3D Multiview Pretraining for Robotic Manipulation
+RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics
+Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision
+Roger: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation
+Two by Two: Learning Cross-Task Pairwise Objects Assembly for Generalizable Robot Manipulation
+RoboGround: Robot Manipulation with Grounded Vision-Language Priors
+MNE-SLAM: Multi-Agent Neural SLAM for Mobile Robots
+Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation
+DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness
+FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation
+RoboSense: Large-scale Dataset and Benchmark for Egocentric Robot Perception and Navigation in Crowded and Unstructured Environments
+ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping
+Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection
+AutoURDF: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration
+Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction
+Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation
+A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning
+RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins
+Let Humanoid Robots Go Hiking! Integrative Skill Development over Complex Trails
